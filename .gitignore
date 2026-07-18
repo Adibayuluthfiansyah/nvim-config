@@ -1,0 +1,9 @@
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+*.log
+lazyvim.json
+*.local.lua
+.local/
